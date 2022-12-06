@@ -1,0 +1,42 @@
+{
+  "_from": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git",
+  "_id": "@zazumedia/node-worker@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@zazumedia/node-worker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git",
+    "rawSpec": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git",
+    "saveSpec": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git",
+    "fetchSpec": "ssh://git@bitbucket.org/zazumedia/node-worker.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git#2ea1a48cc79fec036d51b5111e474cf387091b2c",
+  "_spec": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git",
+  "_where": "/home/forge/zmtech-sender",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "devDependencies": {
+    "ioredis": "^4.16.0"
+  },
+  "homepage": "https://bitbucket.org/zazumedia/node-worker#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@zazumedia/node-worker",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/zazumedia/node-worker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
